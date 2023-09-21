@@ -20,9 +20,6 @@ To use this project, follow these steps:
 
 1. **Clone the Repository:**
 
-    ```shell
-    git clone https://github.com/mohamedezzelregal/Psychological-State-Detection-Using-AI.git
-    ```
 
 2. **Install Dependencies:**
 
