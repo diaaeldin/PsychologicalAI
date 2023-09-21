@@ -31,7 +31,7 @@ def main():
         st.audio(uploaded_file, format='audio/wav')
 
         # Load your pre-trained model here
-        model = load_model('/home/mostafatarek/Documents/Toronto emotional speech set (TESS)/best_model.h5')
+        model = load_model('/best_model.h5')
         
         # Preprocess the uploaded audio file
         sample_to_predict = preprocess_audio(uploaded_file)
